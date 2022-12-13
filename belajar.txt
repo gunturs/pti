@@ -3,3 +3,5 @@ Materi PTI
 2.Komponen Komputer
 3.Sistem Bilangan
 4.Konversi Bilangan
+5.Aplikasi Word I
+6.Aplikasi Word II
