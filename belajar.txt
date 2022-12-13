@@ -3,6 +3,8 @@ Materi PTI
 2.Komponen Komputer
 3.Sistem Bilangan
 4.Konversi Bilangan
-5.Aplikasi Word I
-6.Aplikasi Word II
+
+
+5.Aplikasi Word I (Atur HAlaman)
+6.Aplikasi Word II (Daftar Isi)
 7. Aplikasi Mandeley
